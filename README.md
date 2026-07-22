@@ -4,14 +4,14 @@
 
 ##  About Me
 - Building VELORA — an adaptive learning platform with AI whiteboarding, sensory mnemonics, and dopamine-debt tracking
-- Passionate about **AI, education tech, and Kashmiri language processing**
+- Passionate about **AI, education tech, research.
 - Tutoring 8–12 grade students in core subjects
 - Published author of 2 books on philosophy, relationships, and poetry
 
 ##  What I'm Working On
 - [VELORA](https://github.com/toibawani/VELORA) — Educational platform (React 18, Canvas API, ML features)
 - [Lerno](https://github.com/toibawani/Lerno) — Daily facts app for learning
-- Exploring LFX Mentorship opportunities in AI/open-source
+- and many other small projects to enhnace my skill.
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, JavaScript/TypeScript, C++
@@ -27,7 +27,7 @@
 ##  Get in Touch
 - Email: toibawani14@gmail.com
 - GitHub: [@toibawani](https://github.com/toibawani)
-- Open to: LFX Mentorship applications, open-source collaborations
+- open to collaborate un research, internships, mentorships, projects.
 
 ---
 **Currently learning**: Advanced DSA, PyTorch, RAG/LLM frameworks
