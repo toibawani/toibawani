@@ -1,66 +1,126 @@
-# Hi, I'm Toiba Zehra 
+<h1 align="center">Hi, I'm Toiba Zehra 👋</h1>
+<h3 align="center">B.Tech CSE Student • Developer • Research Enthusiast</h3>
 
-Second-year B.Tech CSE student, research enthusiast, and someone who genuinely likes building things that make learning feel less like a chore. I write, I tutor, I code, and most days it's some messy combination of all three.
+<p align="center">
+I build software around learning, visualization, computation, and human-computer interaction.
+</p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/EdTech-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/AI--Assisted%20Learning-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Computational%20Linguistics-9cf?style=flat-square" />
+<img src="https://img.shields.io/badge/Interactive%20Visualization-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/CS%20%26%20Physics-green?style=flat-square" />
+</p>
 
+---
 
-##  About Me
+## 🚀 Featured Projects
 
-I'm currently studying Computer Science, but a lot of what pulls me in has nothing to do with a syllabus. 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I've published two books—one rooted in philosophy and relationships, the other in poetry—because writing has always been as much a part of me as code is becoming. 
+### 🔬 [Visiq](https://github.com/toibawani/Visiq)
+Interactive visual learning platform for science, mathematics, technology, and complex concepts.
 
-I tutor students up to grade 12 in their core subjects, and honestly, teaching them has taught me more about how people actually learn than any course has. That's the thread connecting most of what I build: I'm not trying to make "AI products." I'm trying to fix the parts of learning that felt broken when I was the one sitting in the classroom bored, distracted, or just quietly lost and too embarrassed to ask. 
+`JavaScript` `HTML` `CSS` `Canvas API`
 
-I'm also deep into computational linguistics on the side, currently working on philosophical poetry trying to find where language, culture, and computation actually meet instead of just coexisting on paper.
+</td>
+<td width="50%" valign="top">
 
+### 📚 [Lerno](https://github.com/toibawani/Lerno)
+A bite-sized daily learning application focused on discovering interesting facts across science, mathematics, history, and the world.
 
+`React Native` `Expo` `JavaScript`
 
-##  What I'm Building
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 1. **Lerno**
-> *A daily facts app*
-> 
-The kind of thing where you learn one real, interesting fact about science, math, history, or the world every day. Not trivia for the sake of trivia. The stuff you technically encounter all the time but never actually know the why behind things you've seen a hundred times and never questioned.
+### 🧮 [Calculam](https://github.com/toibawani/calculam)
+A modern calculation workspace designed for finance, science, engineering, and everyday problem solving.
 
-### 2. **Shrinking Game**
-> *A brain activator puzzle game with a twist*
-> 
-The room you're in physically shrinks while you're trying to solve a puzzle or quiz. The pressure isn't a gimmick—it's the point. You think differently when the walls are literally closing in, and that's what makes you actually engage instead of coasting.
+`React` `TypeScript` `Vite`
 
-### 3. **VELORA**
-> *An adaptive learning platform*
-> 
-I'm currently building this with AI-assisted whiteboarding, sensory mnemonics, and something I call dopamine-debt tracking, which is really about being honest with yourself about how you're actually learning versus how it feels like you're learning. It's built on React 18 and Canvas API, with ML woven into how it adapts to the person using it. This one's the biggest and the most personal  still very much in progress.
+</td>
+<td width="50%" valign="top">
 
-### 4. **A bunch of smaller projects**
-> Things I build just to get better, to test an idea, or because I couldn't stop thinking about it until I tried it. Not everything needs to be a flagship project. Some things exist just so I stop wondering "what if."
+### 🌱 [Aurelia](https://github.com/toibawani/aurelia)
+A productivity and task-management application focused on creating a calmer and more intentional workflow.
 
+`React` `TypeScript` `Vite`
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-##  Tech Stack
+### 🧠 [Shrinking Room](https://github.com/toibawani/Shrinking-Room)
+An experimental puzzle game where the environment changes while the player solves problems.
 
-* **Languages:** Python, JavaScript / TypeScript, C++
-* **Frontend:** React 18, Tailwind CSS, Canvas API
-* **ML / AI:** TensorFlow, scikit-learn, Teachable Machine
-* **Tools:** Git, GitHub, Linux, VS Code
+`JavaScript` `HTML` `CSS`
 
+</td>
+<td width="50%" valign="top">
 
+</td>
+</tr>
+</table>
 
-##  Interests
+---
 
-* **Computational linguistics** *(currently: poetry analysis)*
-* **Adaptive and personalized learning systems**
-* **Open-source education tech**
-* **Anything that sits at the intersection of language, learning, and people**
+## 🛠️ Technologies
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,html,css,git,github,vite" />
+</p>
 
+<table>
+<tr><td><b>Languages</b></td><td>Python • C++ • JavaScript • TypeScript</td></tr>
+<tr><td><b>Frontend</b></td><td>React • React Native • HTML • CSS</td></tr>
+<tr><td><b>Tools</b></td><td>Git • GitHub • Vite • Expo</td></tr>
+<tr><td><b>Currently Exploring</b></td><td>AI • Machine Learning • Computational Linguistics • Systems</td></tr>
+</table>
 
-## Get in Touch
+---
 
-I'm always open to talking about research, internships, mentorships, or just collaborating on something that sounds interesting.
+## 🔬 Research & Interests
 
-*  **Email:** [toibawani14@gmail.com](mailto:toibawani14@gmail.com)
-*  **GitHub:** [@toibawani](https://github.com/toibawani)
+<p align="center">
+<b>Computer Science × Physics × Language × Learning</b>
+</p>
 
-> *If you're building something in education tech, or you just want to talk about why most learning tools feel soulless, my inbox is open.*
+<p align="center">
+I'm particularly interested in using computation to make complex ideas easier to understand and explore.
+</p>
+
+---
+
+## 📚 Beyond Code
+
+I've also published two books and tutor students in science and English.
+
+> Writing and teaching strongly influence the way I design software — I care about making complicated ideas understandable.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=toibawani&show_icons=true&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=toibawani&theme=radical&hide_border=true" height="165" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+<a href="mailto:toibawani14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>"Build things worth understanding."</i></p>
