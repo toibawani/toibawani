@@ -1,17 +1,19 @@
 <h1 align="center">Hi, I'm Toiba Zehra 👋</h1>
-<h3 align="center">B.Tech CSE Student • Developer • Research Enthusiast</h3>
+<h3 align="center">B.Tech CSE Student • Solo Founder • Research Enthusiast</h3>
 
 <p align="center">
 I build software around learning, visualization, computation, and human-computer interaction.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/EdTech-blueviolet?style=flat-square" />
-<img src="https://img.shields.io/badge/AI--Assisted%20Learning-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Computational%20Linguistics-9cf?style=flat-square" />
-<img src="https://img.shields.io/badge/Interactive%20Visualization-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/CS%20%26%20Physics-green?style=flat-square" />
+<img src="https://img.shields.io/badge/EdTech-9b59b6?style=flat-square" />
+<img src="https://img.shields.io/badge/AI--Assisted%20Learning-3498db?style=flat-square" />
+<img src="https://img.shields.io/badge/Computational%20Linguistics-2980b9?style=flat-square" />
+<img src="https://img.shields.io/badge/Interactive%20Visualization-e67e22?style=flat-square" />
+<img src="https://img.shields.io/badge/CS%20%26%20Physics-27ae60?style=flat-square" />
 </p>
+
+I'm not trying to make "AI products." I'm trying to fix the parts of learning that felt broken when I was the one sitting in the classroom bored, distracted, or too embarrassed to ask. That's the thread running through everything below.
 
 ---
 
@@ -21,46 +23,28 @@ I build software around learning, visualization, computation, and human-computer
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 [Visiq](https://github.com/toibawani/Visiq)
-Interactive visual learning platform for science, mathematics, technology, and complex concepts.
+### 🎓 [VELORA](#)
+A premium interactive learning platform, built on React 18, Canvas API, and Web Audio API. It exists because I couldn't find material online that actually explains a concept the way a good tutor would — not scraped, not AI-paraphrased, just broken down line by line for someone who's stuck. Still in progress, and the project I'd point you to first.
 
-`JavaScript` `HTML` `CSS` `Canvas API`
+`React 18` `Canvas API` `Web Audio API`
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 [Lerno](https://github.com/toibawani/Lerno)
-A bite-sized daily learning application focused on discovering interesting facts across science, mathematics, history, and the world.
+### 🔬 [Visiq](https://github.com/toibawani/Visiq)
+Interactive science simulations built in p5.js — 29 of them, spanning physics, biology, geography, and astronomy. The point was never to animate for the sake of it; it's to let you mess with a concept until it clicks instead of reading about it and hoping it sticks.
 
-`React Native` `Expo` `JavaScript`
+`JavaScript` `p5.js` `Canvas API`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🧮 [Calculam](https://github.com/toibawani/calculam)
-A modern calculation workspace designed for finance, science, engineering, and everyday problem solving.
-
-`React` `TypeScript` `Vite`
-
-</td>
 <td width="50%" valign="top">
 
 ### 🌱 [Aurelia](https://github.com/toibawani/aurelia)
-A productivity and task-management application focused on creating a calmer and more intentional workflow.
+A task manager for people who find most productivity apps more stressful than helpful — this is my attempt at one that isn't. Built to feel calm rather than urgent.
 
 `React` `TypeScript` `Vite`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [Shrinking Room](https://github.com/toibawani/Shrinking-Room)
-An experimental puzzle game where the environment changes while the player solves problems.
-
-`JavaScript` `HTML` `CSS`
 
 </td>
 <td width="50%" valign="top">
@@ -68,59 +52,33 @@ An experimental puzzle game where the environment changes while the player solve
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>Other things I've built</b></summary>
+<br>
+
+- **[Lerno](https://github.com/toibawani/Lerno)** — a bite-sized daily facts app (React Native / Expo)
+- **[Calculam](https://github.com/toibawani/calculam)** — a calculation workspace for finance, science, and everyday math (React / TypeScript / Vite)
+- **[Shrinking Room](https://github.com/toibawani/Shrinking-Room)** — a puzzle game where the room physically shrinks while you solve it (JavaScript / Canvas)
+
+</details>
 
 ---
 
 ## 🛠️ Technologies
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,html,css,git,github,vite" />
-</p>
-
-<table>
-<tr><td><b>Languages</b></td><td>Python • C++ • JavaScript • TypeScript</td></tr>
-<tr><td><b>Frontend</b></td><td>React • React Native • HTML • CSS</td></tr>
-<tr><td><b>Tools</b></td><td>Git • GitHub • Vite • Expo</td></tr>
-<tr><td><b>Currently Exploring</b></td><td>AI • Machine Learning • Computational Linguistics • Systems</td></tr>
-</table>
-
----
-
-## 🔬 Research & Interests
-
-<p align="center">
-<b>Computer Science × Physics × Language × Learning</b>
-</p>
-
-<p align="center">
-I'm particularly interested in using computation to make complex ideas easier to understand and explore.
-</p>
+**Languages:** Python • JavaScript / TypeScript • C++
+**Frontend:** React • Canvas API • p5.js
+**Tools:** Git • Vite • Expo
 
 ---
 
 ## 📚 Beyond Code
 
-I've also published two books and tutor students in science and English.
-
-> Writing and teaching strongly influence the way I design software — I care about making complicated ideas understandable.
+I've published two books, tutor students up to grade 12, and debate competitively. Teaching has taught me more about how people actually learn than any course has — it shapes almost everything I build.
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Get in Touch
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=toibawani&show_icons=true&theme=radical&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=toibawani&theme=radical&hide_border=true" height="165" />
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-<a href="mailto:toibawani14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>"Build things worth understanding."</i></p>
+📧 toibawani14@gmail.com
