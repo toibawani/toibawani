@@ -20,9 +20,11 @@ Most of what I build comes from one question: what would have fixed the parts of
 ## 🚀 Flagship
 
 ### 🎓 [Velora](https://github.com/toibawani/Velora)
-An interactive learning platform I'm building solo. I couldn't find material online that explained a concept the way a good tutor would, so I'm building it: hands-on visual simulations instead of passive content, and explanations that go line by line for someone who's genuinely stuck. React 18, Canvas API, Web Audio API. Still in progress, and the project I care about most.
+An interactive learning platform I'm building solo. I couldn't find material online that explained a concept the way a good tutor would, so I'm building it: hands-on visual simulations instead of passive content, and explanations that go line by line for someone who's genuinely stuck. React 19, Canvas API, Web Audio API. Still in progress, and the project I care about most.
 
-`React 18` `Canvas API` `Web Audio API`
+**[Live demo](https://toibawani.github.io/Velora/)** · 54 of 572 atlas topics are written, and the other 518 say so instead of pretending.
+
+`React 19` `Canvas API` `Web Audio API`
 
 ---
 
