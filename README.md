@@ -94,7 +94,7 @@ A small CLI that finds drift across your `.env*` files: missing keys, typos, emp
 
 ---
 
-## 📚 Beyond Code
+## 📚 Beyond technical
 
 I've published two books, tutor students up to grade 12, and debate competitively. Teaching has taught me more about how people actually learn than any course has, and it shapes almost everything I build.
 
