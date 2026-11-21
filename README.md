@@ -125,7 +125,7 @@ Many farmers in Jammu & Kashmir have land sitting unused or half-used and no cle
 
 ---
 
-## Beyond code and everything
+## Beyond code 
 
 
 I've published two books, one on philosophy and relationships and one of poetry, and I debate competitively. Writing and teaching are why I care so much about explanations that actually land.
